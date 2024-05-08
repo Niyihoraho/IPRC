@@ -534,14 +534,14 @@ border-radius: 5px;
     
 }
 }
-.down{
+.downn{
     display: flex;
     justify-content: center;
     background:  #00ade5;
     color: white;
     font-size: clamp(14px,1.5vw,150px);
+    padding: 10px 0;
 }
-
 
 
 
